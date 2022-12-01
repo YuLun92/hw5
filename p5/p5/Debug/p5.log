@@ -1,0 +1,5 @@
+﻿  p5.c
+c:\users\吳育綸\desktop\hw5\p5\p5\p5.c(17): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\users\吳育綸\desktop\hw5\p5\p5\p5.c(19): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\吳育綸\desktop\hw5\p5\p5\p5.c(19): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 3 個
+  p5.vcxproj -> C:\Users\吳育綸\Desktop\hw5\p5\Debug\p5.exe
